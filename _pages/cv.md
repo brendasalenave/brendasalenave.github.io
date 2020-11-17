@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science, Federal University of Santa Maria, (2014-2017)
 * M.S. in Computer Science, Federal University of Rio Grand do Sul, (mar/2018 - feb/2019)
-* Ph.D in Computer Sciencey, Federal University of Rio Grand do Sul, (2019 now)
+* Ph.D in Computer Science, Federal University of Rio Grand do Sul, (2019 now)
 
 Work experience
 ======
@@ -29,12 +29,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Python
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* R
 
 Publications
 ======
