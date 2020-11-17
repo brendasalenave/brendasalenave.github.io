@@ -15,4 +15,4 @@ assumed by players during the matches, for this purpose it's used statistics and
 
 [Download paper here](http://2017.eati.info/assets/anais/Longos/L77.pdf)
 
-Recommended citation: GAIARDO, G. F. ; LUCCA, L. P. ; SANTANA, B. S. ; DONATO, M. M. ; GARCIA, VINÍCIUS FÜLBER ; WINCK, A. T. . Estudo de Caso: Análise do Método C4.5 na Predição do Papel de Jogadores de League of Legends. In: Encontro Anual de Tecnologia da Informação, 2017, Frederico Westphalen. VIII EATI - Encontro Anual de Tecnologia da Informação, 2017. p. 77-84.
+Recommended citation: GAIARDO, G. F. ; LUCCA, L. P. ; **SANTANA, B. S.** ; DONATO, M. M. ; GARCIA, VINÍCIUS FÜLBER ; WINCK, A. T. . Estudo de Caso: Análise do Método C4.5 na Predição do Papel de Jogadores de League of Legends. In: Encontro Anual de Tecnologia da Informação, 2017, Frederico Westphalen. VIII EATI - Encontro Anual de Tecnologia da Informação, 2017. p. 77-84.
