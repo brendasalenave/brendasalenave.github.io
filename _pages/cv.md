@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Federal University of Santa Maria, (2014-2017)
+* M.S. in Computer Science, Federal University of Rio Grand do Sul, (mar/2018 - feb/2019)
+* Ph.D in Computer Sciencey, Federal University of Rio Grand do Sul, (2019 now)
 
 Work experience
 ======
