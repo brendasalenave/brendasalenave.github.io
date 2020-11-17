@@ -1,7 +1,7 @@
 ---
 title: "Mapeamento Sistemático: Ambientes Virtuais de Aprendizagem Ubíquos"
 collection: publications
-permalink: /publication/propor-mapeamento
+permalink: /publication/senid
 excerpt: 'New tecnologies represents innovation opportunities in many contexts. A specific context is the educational environment, varied forms of knowledge presentation and new teaching methodologies allied to the technologies
 are capable to improve the students performance. This paper presents a systematic mapping on the use of ubiquitous computing in learning virtual environments.The work comprises the period between 2007 and 2017 and returns the
 works considered more relevant after the application of the systematic method
