@@ -1,7 +1,7 @@
 ---
 title: "Estudo de Caso: Análise do Método C4.5 na Predição do Papel de Jogadores de League of Legends"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/eati
 excerpt: 'Multiplayer Online Battle Arena (MOBA) games have been in
 increasing popularity since the middle of the year of 2005. In this context,
 League of Legends (LoL) has become an important exponent in the MOBAs'
