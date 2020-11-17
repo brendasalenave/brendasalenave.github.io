@@ -5,7 +5,7 @@ permalink: /publication/eati
 excerpt: 'Multiplayer Online Battle Arena (MOBA) games have been in increasing popularity since the middle of the year of 2005. In this context, League of Legends (LoL) has become an important exponent in the MOBAs' universe. This paper aims to analyze the possibility of detecting the role
 assumed by players during the matches, for this purpose it's used statistics and characteristics from best players by the official ranking. From the execution of several configurations of C4.5 algorithm we try to detect gaming patterns and understand the generated results.'
 date: 2017-11-06
-venue: 'Encontro Anual de Tecnologia da Informação (EATI) - 2017'
+venue: 'Encontro Anual de Tecnologia da Informação (EATI)'
 
 ---
 Multiplayer Online Battle Arena (MOBA) games have been in increasing popularity since the middle of the year of 2005. In this context,
