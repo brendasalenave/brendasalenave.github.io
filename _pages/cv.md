@@ -13,14 +13,16 @@ Education
 ======
 * B.S. in Computer Science, Federal University of Santa Maria, (2014-2017)
 * M.S. in Computer Science, Federal University of Rio Grand do Sul, (mar/2018 - feb/2019)
-* Ph.D in Computer Science, Federal University of Rio Grand do Sul, (2019 now)
+* Ph.D in Computer Science, Federal University of Rio Grand do Sul, (2019 - now)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* INESC TEC: Researcher
+  * Artificial Intelligence and Decision Support
+  * Duties included: NLP Tasks
+    * [Text2Story Project](https://text2story.inesctec.pt)
+  * Period: Jan/2020 - now
+  * Supervisor: Professor Alípio Jorge
 
 * Fall 2015: Research Assistant
   * Github University
