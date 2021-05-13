@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brenda Salenave / Site Title"
+title                    : "Brenda Salenave / Personal Page"
 title_separator          : "-"
 name                     : &name "Brenda Salenave"
 description              : &description "Ph.D. student at UFRGS. Research topics include natural language processing with a focus on hate speech and fake news detection."
