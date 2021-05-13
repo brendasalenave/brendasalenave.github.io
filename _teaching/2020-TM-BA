@@ -1,0 +1,27 @@
+---
+title: "Text Mining Aplicado à Business Analytics - 2020"
+collection: teaching
+type: "Specialization course"
+permalink: /teaching/2020-TM-BA
+venue: "UFRGS, Escola de Administração (Online)"
+date: 2020-11-15
+location: "Porto Alegre, Brazil"
+---
+
+Ensino de abordagens de mineração de textos com ênsase em aplicações voltadas à _Business Analytics_.
+
+Súmula e conteúdo programático
+======
+Análise e processamento de linguagem natural. Lexicometria. Associação entre palavras. Extração de informação. Análise de Polaridade. Recuperação de informação. Classificação e agrupamento de textos. Sumarização de textos.
+
+Objetivos
+======
+Apresentar técnicas quantitativas para encontrar termos relevantes em documentos de texto com grande volume de dados, além de estabelecer padrões e relacionamentos entre eles com base na frequência e temática dos termos encontrados. 
+
+Metodologia
+======
+Aulas expositivas, exercícios em laboratório, discussão de estudos de casos.
+
+Critérios de Avaliação
+======
+Trabalhos teórico-práticos realizados individualmente ou em grupo.
