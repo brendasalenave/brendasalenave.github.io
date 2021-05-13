@@ -24,10 +24,9 @@ Work experience
   * Period: Jan/2020 - Nov/2020
   * Supervisor: Professor Alípio Jorge
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* EMBRAPII: Research Assistant
+  * Duties included: Data classification through NLP Tasks application
+  * Supervisor: Professor Leandro K. Wives
   
 Skills
 ======
@@ -56,6 +55,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
