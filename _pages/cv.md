@@ -21,7 +21,7 @@ Work experience
   * Artificial Intelligence and Decision Support
   * Duties included: NLP Tasks
     * [Text2Story Project](https://text2story.inesctec.pt)
-  * Period: Jan/2020 - now
+  * Period: Jan/2020 - 
   * Supervisor: Professor Alípio Jorge
 
 * Fall 2015: Research Assistant
@@ -32,11 +32,11 @@ Work experience
 Skills
 ======
 * Python
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * R
+* Natural Language Processing
+  * Classification
+  * Sentiment Analysis
+  * Clustering
 
 Publications
 ======
