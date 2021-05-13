@@ -7,14 +7,12 @@ links between them (temporal, referential, semantic roles). The outcome is a str
 graphically, thus opening room for further and alternative exploration
 of the plot. Such visualization can also be useful during the on-going
 annotation process. Manual annotation of narratives can be a complex
-e↵ort and the possibility o↵ered by the Brat annotation tool of annotating directly on the text does not seem suciently helpful. In this
+effort and the possibility o↵ered by the Brat annotation tool of annotating directly on the text does not seem suciently helpful. In this
 paper, we propose Brat2Viz, a tool and a pipeline that displays visualization of narrative information annotated in Brat. Brat2Viz reads the
 annotation file of Brat, produces an intermediate representation in the
-declarative language DRS (Discourse Representation Structure), and
-from this obtains the visualization. Currently, we make available two
-visualization schemes: MSC (Message Sequence Chart) and Knowledge
+declarative language DRS (Discourse Representation Structure), and from this obtains the visualization. Currently, we make available two visualization schemes: MSC (Message Sequence Chart) and Knowledge
 Graphs. The modularity of the pipeline enables the future extension
-to new annotation sources, di↵erent annotation schemes, and alternative visualizations or representations. We illustrate the pipeline using'
+to new annotation sources, di↵erent annotation schemes, and alternative visualizations or representations. We illustrate the pipeline using examples from an European Portuguese news corpus.'
 date: 2021-04-07
 venue: '4th International Workshop on Narrative Extraction from Texts (Text2Story 2021) associated to 43rd International Conference on Information Retrieval (ECIR2021)'
 paperurl: 'http://ceur-ws.org/Vol-2860/paper6.pdf'
@@ -25,15 +23,9 @@ Narrative Extraction from text is a complex task that starts by identifying a se
 links between them (temporal, referential, semantic roles). The outcome is a structure or set of structures which can then be represented
 graphically, thus opening room for further and alternative exploration
 of the plot. Such visualization can also be useful during the on-going
-annotation process. Manual annotation of narratives can be a complex
-e↵ort and the possibility o↵ered by the Brat annotation tool of annotating directly on the text does not seem suciently helpful. In this
+annotation process. Manual annotation of narratives can be a complex effort and the possibility o↵ered by the Brat annotation tool of annotating directly on the text does not seem suciently helpful. In this
 paper, we propose Brat2Viz, a tool and a pipeline that displays visualization of narrative information annotated in Brat. Brat2Viz reads the
-annotation file of Brat, produces an intermediate representation in the
-declarative language DRS (Discourse Representation Structure), and
-from this obtains the visualization. Currently, we make available two
-visualization schemes: MSC (Message Sequence Chart) and Knowledge
-Graphs. The modularity of the pipeline enables the future extension
-to new annotation sources, di↵erent annotation schemes, and alternative visualizations or representations. We illustrate the pipeline using
+annotation file of Brat, produces an intermediate representation in the declarative language DRS (Discourse Representation Structure), and from this obtains the visualization. Currently, we make available two visualization schemes: MSC (Message Sequence Chart) and Knowledge Graphs. The modularity of the pipeline enables the future extension to new annotation sources, di↵erent annotation schemes, and alternative visualizations or representations. We illustrate the pipeline using examples from an European Portuguese news corpus.
 
 [Download paper here](http://ceur-ws.org/Vol-2860/paper6.pdf)
 
