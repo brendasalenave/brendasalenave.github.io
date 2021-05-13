@@ -15,7 +15,7 @@ from this obtains the visualization. Currently, we make available two
 visualization schemes: MSC (Message Sequence Chart) and Knowledge
 Graphs. The modularity of the pipeline enables the future extension
 to new annotation sources, di↵erent annotation schemes, and alternative visualizations or representations. We illustrate the pipeline using'
-date: 2020-04-07
+date: 2021-04-07
 venue: '4th International Workshop on Narrative Extraction from Texts (Text2Story 2021) associated to 43rd International Conference on Information Retrieval (ECIR2021)'
 paperurl: 'http://ceur-ws.org/Vol-2860/paper6.pdf'
 
