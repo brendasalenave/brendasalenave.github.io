@@ -36,6 +36,10 @@ Skills
   * Classification
   * Sentiment Analysis
   * Clustering
+* Data Analysis
+  * Exploratory Analysis
+  * Preditive Analysis
+  * Statistical Tests  
 
 Publications
 ======
