@@ -15,6 +15,10 @@ Education
 * M.S. in Computer Science, Federal University of Rio Grand do Sul, (mar/2018 - feb/2019)
 * Ph.D in Computer Science, Federal University of Rio Grand do Sul, (2019 - now)
 
+Additional Formation
+=====
+* Data Sciente & Machine Learning
+
 Work experience
 ======
 * INESC TEC: Researcher
@@ -24,9 +28,8 @@ Work experience
   * Period: Jan/2020 - Nov/2020
   * Supervisor: Professor Alípio Jorge
 
-* EMBRAPII: Research Assistant
-  * Duties included: Data classification through NLP Tasks application
-  * Supervisor: Professor Leandro K. Wives
+* 321Go: Research and Development
+  * Python Backend Development 
   
 Skills
 ======
