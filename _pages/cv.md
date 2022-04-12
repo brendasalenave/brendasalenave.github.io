@@ -26,6 +26,7 @@ Work experience
   * Duties included: NLP Tasks
     * [Text2Story Project](https://text2story.inesctec.pt)
   * Period: Jan/2020 - Nov/2020
+  * Further Collaboration: Nov/2020 - now
   * Supervisor: Professor Alípio Jorge
 
 * 321Go: Research and Development
