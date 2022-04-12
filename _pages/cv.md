@@ -21,7 +21,7 @@ Additional Formation
 
 Work experience
 ======
-* INESC TEC: Researcher
+* [INESC TEC](https://www.inesctec.pt/en): Researcher
   * Artificial Intelligence and Decision Support
   * Duties included: NLP Tasks
     * [Text2Story Project](https://text2story.inesctec.pt)
