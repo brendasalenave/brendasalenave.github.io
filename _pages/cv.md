@@ -17,7 +17,7 @@ Education
 
 Additional Formation
 =====
-* Data Sciente & Machine Learning
+* Data Sciente & Machine Learning - TERA - 2022
 
 Work experience
 ======
