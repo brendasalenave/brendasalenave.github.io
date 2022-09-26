@@ -1,6 +1,11 @@
 ---
 title: "Book Recomendations"
-excerpt: "A book recommendation system"
+excerpt: "A book recommendation system.
+
+In the development of this project, two recommendation approaches were used:
+collaborative filtering-based approach;
+content-based approach using natural language processing (NLP).
+"
 collection: portfolio
 ---
 
