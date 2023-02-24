@@ -1,0 +1,16 @@
+---
+title: "A survey on narrative extraction from textual data"
+collection: publications
+permalink: /publication/narratives_survey
+excerpt: 'Online communication provides space for content dissemination and opinion sharing. However, the limit between opinion and offense might be exceeded, characterizing hate speech. Moreover, its automatic detection is challenging, and approaches focused on the Portuguese language are scarce. This paper proposes an interface between linguistic concepts and computational interventions to support hate speech detection. We applied a Natural Language Processing pipeline involving topic modeling and semantic role labeling, allowing a semi-automatic identification of hate speech. We also discuss how such speech qualifies as a type of verbal violence widespread on social networks to reinforce a sexist stereotype. Finally, we use Twitter data to analyze information that resulted in virtual attacks against a specific person. As an achievement, this work validates the use of linguistic features to annotate data either as hate speech or not. It also proposes using fallacies as a potential additional feature to identify potential intolerant discourses.'
+date: 2022-03-16
+venue: 'Artificial Intelligence Review (AIRE)'
+paperurl: 'https://link.springer.com/article/10.1007/s10462-022-10338-7'
+
+---
+
+Narratives are present in many forms of human expression and can be understood as a fundamental way of communication between people. Computational understanding of the underlying story of a narrative, however, may be a rather complex task for both linguists and computational linguistics. Such task can be approached using natural language processing techniques to automatically extract narratives from texts. In this paper, we present an in depth survey of narrative extraction from text, providing a establishing a basis/framework for the study roadmap to the study of this area as a whole as a means to consolidate a view on this line of research. We aim to fulfill the current gap by identifying important research efforts at the crossroad between linguists and computer scientists. In particular, we highlight the importance and complexity of the annotation process, as a crucial step for the training stage. Next, we detail methods and approaches regarding the identification and extraction of narrative components, their linkage and understanding of likely inherent relationships, before detailing formal narrative representation structures as an intermediate step for visualization and data exploration purposes. We then move into the narrative evaluation task aspects, and conclude this survey by highlighting important open issues under the domain of narratives extraction from texts that are yet to be explored.
+
+[Download paper here](https://link.springer.com/article/10.1007/s10462-022-10338-77)
+
+Recommended citation: **Santana, B.**, Campos, R., Amorim, E. et al. A survey on narrative extraction from textual data. Artif Intell Rev (2023). https://doi.org/10.1007/s10462-022-10338-7
