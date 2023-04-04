@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/SIRC-paper2
 excerpt: 'The fast growth and popularization of computer networks created bigand complex interconnected equipment groups. These groups are ilustrated bynetwork topologies. As a way to guarantee good instantiations of network topo-logies and to test new network technologies, network emulations, such offered byMininet platform, may be used. This paper presents JMP, a solution thats addsan abstraction layer to create Mininet topologies by using JSON, facilitating theMininet emulator use for the prototyping environment creation.'
 date: 2017-11-07
-venue: 'XIV Simpósio de Informática'
+venue: 'XIV Simpósio de Informática do Centro Universitário Franciscano – SIRC 2017'
 paperurl: 'http://brendasalenave.github.io/files/SIRC-2017-2.pdf'
 
 ---

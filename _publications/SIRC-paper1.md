@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/SIRC-paper1
 excerpt: 'Access control in computer networks is an increasingly necessary al-ternative and present in companies and educational institutions, after all, it be-comes ideal to have tools that can manage and monitor access to the Internet,quickly and intuitively. Therefore, we present the SIMPsOn tool, which uses theSquid tool integrated to an intuitive graphical interface'
 date: 2017-11-07
-venue: 'XIV Simpósio de Informática'
+venue: 'XIV Simpósio de Informática do Centro Universitário Franciscano – SIRC 2017'
 paperurl: 'http://brendasalenave.github.io/files/SIRC-2017-3.pdf'
 
 ---
