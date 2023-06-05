@@ -31,6 +31,13 @@ Work experience
 
 * 321Go: Research and Development
   * Python Backend Development 
+    * [321Go](https://dev.platform321go.com)  
+  * Period: Nov/2021 - Mar/2023
+
+* UFRGS: Substitute teacher
+  * Department of Applied Computing
+    * [321Go](https://dev.platform321go.com)  
+  * Period: Apr/2023 - now
   
 Skills
 ======
