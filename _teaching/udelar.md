@@ -5,7 +5,7 @@ type: "Specialization course"
 permalink: /teaching/udelar_2022
 venue: "Facultad de Ingeniería - UDELAR"
 date: 2022-07-26
-location: ""Montevideo, Uruguay"
+location: "Montevideo, Uruguay"
 ---
 
 Ensino de abordagens de mineração de textos com ênsase em aplicações voltadas à _Business Analytics_.
