@@ -36,17 +36,24 @@ Work experience
 
 * UFRGS: Substitute teacher
   * Department of Applied Computing
-    * [321Go](https://dev.platform321go.com)  
-  * Period: Apr/2023 - now
-  
+  * Period: Apr/2023 - Jul/2023
+
+* UNIPAMPA: Assistant teacher
+  * Period: Jul/2023 - Dec/2023
+
+* UFPel: Assistant teacher
+  * [CDTec](https://wp.ufpel.edu.br/cdtec/)
+  * Period: Dec/2023 - now
+
 Skills
 ======
 * Python
 * R
 * Natural Language Processing
   * Classification
-  * Sentiment Analysis
   * Clustering
+  * Sentiment Analysis
+  * Hate Speech Dection
 * Data Analysis
   * Exploratory Analysis
   * Preditive Analysis
@@ -69,4 +76,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
