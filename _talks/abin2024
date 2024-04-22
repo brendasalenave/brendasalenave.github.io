@@ -1,0 +1,13 @@
+---
+title: "Deteccao de Discurso de Ódio -  Abordagens e Desafios (ABIN 04_2024)"
+collection: talks
+type: "Event talk"
+permalink: /talks/abin-042024
+venue: "The Developer's Conference"
+date: 2024-04-17
+location: "Florianópolis, BR"
+---
+
+Um dos principais usos do ML é no processamento de texto, onde a análise do conteúdo é o ponto de entrada para vários algoritmos de aprendizagem. No entanto, o uso desse conteúdo pode representar a inserção de diferentes tipos de vieses no treinamento e pode variar com o contexto trabalhado. O objetivo dessa palestra é discutir como o uso indevido de dados pode interferir em modelos de aprendizado propagando desigualdades e viéses preconceituosos através de algoritmos de aprendizado de máquina.
+
+[Download paper here]https://github.com/brendasalenave/brendasalenave.github.io/blob/master/files/Deteccao%20de%20Discurso%20de%20Ódio%20-%20%20Abordagens%20e%20Desafios%20(ABIN%2004_2024).pdf)
